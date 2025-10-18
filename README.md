@@ -1,2 +1,4 @@
-# Pizza-Sales-Dashboard
-The Pizza Sales Dashboard provides comprehensive insights into pizza sales performance, helping to identify key trends, best-selling items, customer preferences, and revenue patterns. This project visualizes sales data to support data-driven business decisions for maximizing profit and operational efficiency.
+# Pizza-Sales-Dashboard (Interactive Dashboard using MS Excel)
+1.Project objective
+To analyze pizza sales data to identify key trends, best-selling products, and peak order times.
+
